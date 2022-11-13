@@ -31,7 +31,7 @@ const Input = styled.input`
     border: none;
 `
 const Language = styled.div`
-    font-size = 14px;
+    font-size : 14px;
     cursor: pointer;
 `
 
@@ -50,7 +50,7 @@ const Right = styled.div`
     justify-content: flex-end;
 `
 const MenuItem = styled.div`
-    font-size = 14px;
+    font-size: 14px;
     cursor: pointer;
     margin-left: 25px;
 
