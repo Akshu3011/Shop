@@ -43,3 +43,47 @@ export const sliderItems = [
     },
 
  ];
+
+ export const popularProducts = [
+    {
+
+        id:1,
+        img:"https://res.cloudinary.com/dpms34wpa/image/upload/v1668333113/Shop_App/vecteezy_shirt-on-white-background_2233904_lisxbe.jpg"
+    },
+    {
+
+        id:2,
+        img:"https://res.cloudinary.com/dpms34wpa/image/upload/v1668333781/Shop_App/bongo-cat-classic-t-bucket-hat-white_ta2dsl.jpg"
+    },
+    {
+
+        id:3,
+        img:"https://res.cloudinary.com/dpms34wpa/image/upload/v1668334312/Shop_App/vecteezy_pants-isolated-on-white-striped-pants-top-view-white-pants_3737171_548_oecbmv.jpg"
+    },
+    {
+
+        id:4,
+        img:"https://res.cloudinary.com/dpms34wpa/image/upload/v1668334302/Shop_App/vecteezy_beautiful-and-elegant-evening-women-s-dress-on-a-white_12194047_691_mwzol3.jpg"
+    },
+    {
+
+        id:5,
+        img:"https://res.cloudinary.com/dpms34wpa/image/upload/v1668333119/Shop_App/vecteezy_cloth-on-white-background_2233907_afqcei.jpg"
+    },
+    {
+
+        id:6,
+        img:"https://res.cloudinary.com/dpms34wpa/image/upload/v1668333126/Shop_App/vecteezy_sweaters-isolated-on-white-background_2141184_e9zoqo.jpg"
+    },
+    {
+
+        id:7,
+        img:"https://res.cloudinary.com/dpms34wpa/image/upload/v1668333130/Shop_App/vecteezy_pink-jacket-on-white_2783440_bdw1ac.jpg"
+    },
+    {
+        id:8,
+        img:"https://res.cloudinary.com/dpms34wpa/image/upload/v1668333513/Shop_App/pngwing.com_thb221.png"
+    }
+
+
+ ]
