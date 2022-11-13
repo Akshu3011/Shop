@@ -5,14 +5,14 @@ export const sliderItems = [
         img: "https://res.cloudinary.com/dpms34wpa/image/upload/v1668327424/Shop_App/AdobeStock_219600784_1_yeowdi.jpg",
         title: "SUMMER SALE",
         desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS",
-        bg: "#f8da5b"
+        bg: ""
     },
     {
         id:2,
         img: "https://res.cloudinary.com/dpms34wpa/image/upload/v1668327417/Shop_App/pexels-andrea-piacquadio-3775120_xbrhx6.jpg",
         title: "WINTER COLLECTION",
         desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS",
-        bg: "#eef2e2"
+        bg: ""
 
     },
     {
@@ -20,7 +20,7 @@ export const sliderItems = [
         img: "https://res.cloudinary.com/dpms34wpa/image/upload/v1668328049/Shop_App/AdobeStock_228311846_beudpy.jpg",
         title: "LOUNGEWEAR LOVE",
         desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS",
-        bg: "#bc2525"
+        bg: ""
 
     }
  ];
@@ -28,17 +28,17 @@ export const sliderItems = [
  export const categories = [
     {
         id:1,
-        img: "https://res.cloudinary.com/dpms34wpa/image/upload/v1668320550/Shop_App/AdobeStock_291358813_gbhvij.jpg",
+        img: "https://res.cloudinary.com/dpms34wpa/image/upload/v1668330150/Shop_App/pexels-mathilde-langevin-13347111_xwovdc.jpg",
         title:"SHIRT STYLE!",
     },
     {
         id:2,
-        img:"https://res.cloudinary.com/dpms34wpa/image/upload/v1668327420/Shop_App/AdobeStock_313651795_cy5boo.jpg",
+        img:"https://res.cloudinary.com/dpms34wpa/image/upload/v1668330143/Shop_App/pexels-wilbert-andrade-13202748_x6raqy.jpg",
         title:"LOUNGEWEAR LOVE"
     },
     {
         id:3,
-        img: "https://res.cloudinary.com/dpms34wpa/image/upload/v1668325675/Shop_App/pexels-valeria-ushakova-3094219_el5has.jpg",
+        img: "https://res.cloudinary.com/dpms34wpa/image/upload/v1668330143/Shop_App/pexels-dziana-hasanbekava-5480696_rbjfkc.jpg",
         title:"LIGHT JACKETS",
     },
 
