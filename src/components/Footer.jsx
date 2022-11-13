@@ -55,7 +55,7 @@ const List = styled.ul`
 
 const ListItem = styled.li`
     width: 50%;
-    margin-bottom: 10;
+    margin-bottom: 10px;
 `
 
 const Right = styled.div`
@@ -64,14 +64,13 @@ const Right = styled.div`
 `
 
 const ContactItem = styled.div`
-    margin-bottom: 20px;
+    margin-top: 20px;
     display: flex;
     align-items: center;
 `
 
 const Payment = styled.img`
-    
-
+    width: 50%;
 `
 
 const Footer = () => {
@@ -115,9 +114,9 @@ const Footer = () => {
             </Center>
             <Right>
                 <Title>Contact</Title>
-                <ContactItem><Room />622 Dixie Path, South Tobinchester 98336</ContactItem>
-                <ContactItem> <Phone />+1 234 456 678</ContactItem>
-                <ContactItem><MailOutline /> contact@lama.com</ContactItem>
+                <ContactItem><Room style={{marginRight:"10px"}}/>622 Dixie Path, South Tobinchester 98336</ContactItem>
+                <ContactItem> <Phone style={{marginRight:"10px"}}/>+1 234 456 678</ContactItem>
+                <ContactItem><MailOutline style={{marginRight:"10px"}}/> contact@lama.com</ContactItem>
                 <Payment src="https://res.cloudinary.com/dpms34wpa/image/upload/c_scale,w_292/v1668382390/Shop_App/payment-methods_ag6bwn.png" />
 
             </Right>
