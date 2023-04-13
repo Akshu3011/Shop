@@ -30,16 +30,20 @@ export const sliderItems = [
         id:1,
         img: "https://res.cloudinary.com/dpms34wpa/image/upload/v1668330150/Shop_App/pexels-mathilde-langevin-13347111_xwovdc.jpg",
         title:"SHIRT STYLE!",
+        cat: "jeans"
     },
     {
         id:2,
         img:"https://res.cloudinary.com/dpms34wpa/image/upload/v1668330143/Shop_App/pexels-wilbert-andrade-13202748_x6raqy.jpg",
-        title:"LOUNGEWEAR LOVE"
+        title:"LOUNGEWEAR LOVE",
+        cat: "coat"
+
     },
     {
         id:3,
         img: "https://res.cloudinary.com/dpms34wpa/image/upload/v1668330143/Shop_App/pexels-dziana-hasanbekava-5480696_rbjfkc.jpg",
         title:"LIGHT JACKETS",
+        cat: "dress"
     },
 
  ];
